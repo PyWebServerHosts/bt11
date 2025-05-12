@@ -1,0 +1,5 @@
+:celunitefile:(
+export bt11.sh as :celunitefile: in @Celunite_pkg0
+export :celunitefile: in @Celunite_pkg0 -> shell
+shell64.rem[1]/2/9/2/1
+):celunitefile:
