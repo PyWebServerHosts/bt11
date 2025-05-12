@@ -1,0 +1,14 @@
+znd-1
+  [start znd]
+
+  in	&celuniteInter&& get if &&celuniteInter&&& includes:
+  :celunitefile:
+broad *:celunite[1]:* else [err znd "Celunite Not Found! ZND Can not compile :celunitefile:!"], broad-sys-[1]@lepr00/
+
+#/(def broad )?#//
+  /., @lepr00@@ =[1]/90/921/ /., ==
+    [znd code 0;]
+    
+  
+
+  
